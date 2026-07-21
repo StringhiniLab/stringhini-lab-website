@@ -1,5 +1,0 @@
----
-title: "News & Updates"
----
-
-Recent news in the lab...
