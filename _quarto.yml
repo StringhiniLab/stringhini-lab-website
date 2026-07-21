@@ -3,19 +3,49 @@ project:
 
 website:
   title: "The Stringhini Laboratory"
+  description: "Public health and epidemiology research group at the University of British Columbia. Specializing in longitudinal cohort data analytics, missing data methods, and causal inference frameworks."
+  search: false
+
   navbar:
+    background: "#002145" 
+    foreground: "#FFFFFF"
+    logo: images/logo.png
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: About
+        menu: 
+          - text: About the Lab
+            href: index.qmd
+          - text: News & Updates
+            href: news.qmd
+          - text: Contact
+            href: contact.qmd
+      - text: Research
+        menu:     
+          - text: Project 1
+            href: research.qmd
+          - text: Project 2
+            href: projects.qmd
+      - text: People
+        href: people.qmd        
+      - text: Publications
+        href: publications.qmd
+      - text: Opportunities
+        href: opportunities.qmd
+
+  page-navigation: true
+  page-footer: 
+    center: "[The Stringhini Laboratory](https://github.com/YOUR-USERNAME/stringhini-lab-website) &copy; <script>document.write(new Date().getFullYear())</script>" 
+
+  open-graph: true
+  twitter-card: true      
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+    link-external-icon: false
+    link-external-newwindow: true
 
 
 

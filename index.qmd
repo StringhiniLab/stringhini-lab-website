@@ -2,6 +2,4 @@
 title: "The Stringhini Laboratory"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website is under development. Check back in soon...
