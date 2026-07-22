@@ -2,4 +2,12 @@
 title: "The Stringhini Laboratory"
 ---
 
+# Welcome to the Stringhini Laboratory
+#### We are a epidemiological research group out of the School of Population and Public Health at UBC and the Edwin S.H. Leong Centre for Healthy Aging. Our research focuses on the social, environmental, and economic factors driving chronic diseases and aging, using a life-course epidemiological approach. 
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/images/SPPH_building.jpeg" alt="School of Population and Public Health Building" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px;">
+</div>
+
+
 This website is under development. Check back in soon...

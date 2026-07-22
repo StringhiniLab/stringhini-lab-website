@@ -1,7 +1,54 @@
 ---
 title: "People"
+subtitle: "Meet our research team and collaborators"
+page-layout: full
+date-format: "YYYY-MM"
+listing:
+  - id: lab-member
+    sort: false
+    type: grid
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    grid-columns: 3
+    image-height: 250px
+    contents: 
+      - people/silvia-stringhini.yml
+      - people/rebecca-lawn.yml
+      - people/amanda-kurowski.yml
+      - people/kalia-bennett.yml
+      - people/shelby-vereecke.yml
+      - people/qinlan-yang.yml
+      - people/keenan-elliott.yml
+  - id: lab-alumni
+    sort: false
+    type: table
+    fields: [title, subtitle, started, ended]
+    field-types:
+      started: date
+      ended: date
+    field-display-names: 
+      title: "Name"
+      subtitle: "Previous Role / Current Affiliation"
+      started: "Started"
+      ended: "Ended"
+#    contents: 
+#      - people/silvia-stringhini.yml
+
+page-navigation: false
+title-block-banner: false
+toc: false
+
+format:  
+  html:
+    link-external-newwindow: true
 ---
 
-## Current Lab Members
+## Current Team
 
-## Lab Alumni
+:::{#lab-member}
+:::
+
+## Alumni
+
+:::{#lab-alumni}
+:::

@@ -1,5 +1,17 @@
 ---
 title: "Contact"
+page-layout: full
 ---
 
+## Get in Touch
 
+**Email:** [Insert Lab Email Address]  
+**Office:** [Insert Room / Building Number]  
+**Mailing Address:**  
+School of Population and Public Health  
+University of British Columbia  
+Vancouver, BC, Canada  
+
+## Find Us
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.648581308244!2d-123.25123422356003!3d49.264106371390056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548672c9de2a6f2d%3A0x993a76a1e6e96c97!2sSchool%20of%20Population%20and%20Public%20Health!5e0!3m2!1sen!2sca!4v1784753919343!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>

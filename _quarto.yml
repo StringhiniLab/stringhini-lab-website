@@ -31,6 +31,9 @@ website:
         href: publications.qmd
       - text: Opportunities
         href: opportunities.qmd
+    right:
+      - text: "<img src=\"images/UBC_Crest.jpg\" height=\"60\" style=\"vertical-align: middle;\">"
+        href: index.html
 
   page-navigation: true
   page-footer: 
