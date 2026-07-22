@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News & Updates",
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Research Opportunities",
     "section": "",
-    "text": "Recent news in the lab…"
+    "text": "Seeking Highly Motivated Graduate Students in the Following Areas:"
   },
   {
     "objectID": "about.html",
@@ -14,6 +14,41 @@
     "text": "About this site"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Stringhini Laboratory",
+    "section": "",
+    "text": "Welcome to the Stringhini Laboratory\n\nWe are a epidemiological research group out of the School of Population and Public Health at UBC and the Edwin S.H. Leong Centre for Healthy Aging. Our research focuses on the social, environmental, and economic factors driving chronic diseases and aging, using a life-course epidemiological approach.\n\n\n\nThis website is under development. Check back in soon…"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News & Updates",
+    "section": "",
+    "text": "Recent news in the lab…"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: [Insert Lab Email Address]\nOffice: [Insert Room / Building Number]\nMailing Address:\nSchool of Population and Public Health\nUniversity of British Columbia\nVancouver, BC, Canada"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: [Insert Lab Email Address]\nOffice: [Insert Room / Building Number]\nMailing Address:\nSchool of Population and Public Health\nUniversity of British Columbia\nVancouver, BC, Canada"
+  },
+  {
+    "objectID": "contact.html#find-us",
+    "href": "contact.html#find-us",
+    "title": "Contact",
+    "section": "Find Us",
+    "text": "Find Us"
+  },
+  {
     "objectID": "publications.html#all-publications",
     "href": "publications.html#all-publications",
     "title": "Publications",
@@ -21,24 +56,24 @@
     "text": "All Publications\nPlease find a complete list of the Stringhini Lab publications on Google Scholar."
   },
   {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "Research Opportunities",
-    "section": "",
-    "text": "Seeking Highly Motivated Graduate Students in the Following Areas:"
-  },
-  {
-    "objectID": "people.html#lab-alumni",
-    "href": "people.html#lab-alumni",
+    "objectID": "people.html",
+    "href": "people.html",
     "title": "People",
-    "section": "Lab Alumni",
-    "text": "Lab Alumni"
+    "section": "",
+    "text": "Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Associate\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSc Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Scientist\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Stringhini Laboratory",
+    "objectID": "people.html#current-team",
+    "href": "people.html#current-team",
+    "title": "People",
     "section": "",
-    "text": "This website is under development. Check back in soon…"
+    "text": "Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Associate\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSc Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Scientist\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nPrevious Role / Current Affiliation\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\nResearch\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nContact\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nNews & Updates\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nResearch\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nThe Stringhini Laboratory\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nPublications\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nAbout\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nResearch Opportunities\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items"
   }
 ]
