@@ -1,4 +1,9 @@
 ---
 title: "Research"
 ---
-## Project 1
+## Unequal Ageing Trajectories Across the Life Course: Environmental Pathways, Protective Factors, and Actionable Levers
+Dr. Stringhini’s four-year project examines how social and economic conditions across the life course shape biological and functional aging, and why some individuals experience poorer health outcomes as they grow older. While prior research has often focused on lifestyle and behavioural risk factors such as smoking or diet, this study places particular emphasis on the cumulative impact of environmental conditions — including air pollution, housing quality, and access to green space — as well as the protective factors that enable some people to age more healthily despite lifelong social adversity.
+
+Drawing on data from six large population cohorts across five countries and representing nearly 350,000 individuals, the project will investigate how early-life and adult socioeconomic conditions influence disease onset, functional decline, and biological markers of aging. It will also estimate which realistic policy and lifestyle interventions could most effectively reduce inequalities in aging outcomes. By comparing countries with different social policies and cultural contexts, the research will generate actionable evidence on how environments and systems can either accelerate or buffer the aging process.
+
+This work is especially important for healthy aging because it moves beyond individual behavior to address structural and environmental drivers of health disparities, helping inform policies and community-level strategies that can support more equitable aging for current and future generations.

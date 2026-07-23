@@ -3,6 +3,7 @@ project:
 
 website:
   title: "The Stringhini Laboratory"
+  favicon: images/logo.png
   description: "Public health and epidemiology research group at the University of British Columbia. Specializing in longitudinal cohort data analytics, missing data methods, and causal inference frameworks."
   search: false
 
@@ -21,7 +22,7 @@ website:
             href: contact.qmd
       - text: Research
         menu:     
-          - text: Project 1
+          - text: Unequal Aging Trajectories
             href: research.qmd
           - text: Project 2
             href: projects.qmd

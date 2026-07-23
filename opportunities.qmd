@@ -2,7 +2,14 @@
 title: "Research Opportunities"
 ---
 
-#### Seeking Highly Motivated Graduate Students in the Following Areas:
+#### Seeking Highly Motivated Graduate Students and Trainees with expertise in the Following Areas:
 
+- Life-Course Epidemiology 
+- Causal Inference
+- Mediation Analyses 
+- Longitudinal Data Analysis
+- Reproducible Workflows
+
+#### Please see our [Research page](research.qmd) for current projects in our research group. 
 
 
