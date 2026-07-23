@@ -2,14 +2,14 @@
   {
     "listing": "/people.html",
     "items": [
-      "/research.html",
-      "/contact.html",
-      "/news.html",
-      "/projects.html",
-      "/index.html",
-      "/publications.html",
       "/about.html",
-      "/opportunities.html"
+      "/publications.html",
+      "/research.html",
+      "/opportunities.html",
+      "/news.html",
+      "/contact.html",
+      "/index.html",
+      "/projects.html"
     ]
   }
 ]

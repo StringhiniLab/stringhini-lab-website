@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "Research Opportunities",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Seeking Highly Motivated Graduate Students and Trainees with expertise in the Following Areas:\n\nLife-Course Epidemiology\nCausal Inference\nMediation Analyses\nLongitudinal Data Analysis\nReproducible Workflows\n\n\n\nPlease see our Research page for current projects in our research group."
+    "text": "Email: [Insert Lab Email Address]\nOffice: [Insert Room / Building Number]\nMailing Address:\nSchool of Population and Public Health\nUniversity of British Columbia\nVancouver, BC, Canada"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
     "section": "",
-    "text": "About this site"
+    "text": "Email: [Insert Lab Email Address]\nOffice: [Insert Room / Building Number]\nMailing Address:\nSchool of Population and Public Health\nUniversity of British Columbia\nVancouver, BC, Canada"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Stringhini Laboratory",
-    "section": "",
-    "text": "Welcome to the Stringhini Laboratory\n\nWe are a epidemiological research group out of the School of Population and Public Health at UBC and the Edwin S.H. Leong Centre for Healthy Aging. Our research focuses on the social, environmental, and economic factors driving chronic diseases and aging, using a life-course epidemiological approach.\n\n\n\nThis website is under development. Check back in soon…"
+    "objectID": "contact.html#find-us",
+    "href": "contact.html#find-us",
+    "title": "Contact",
+    "section": "Find Us",
+    "text": "Find Us"
   },
   {
     "objectID": "news.html",
@@ -42,25 +42,11 @@
     "text": "Dr. Stringhini’s four-year project examines how social and economic conditions across the life course shape biological and functional aging, and why some individuals experience poorer health outcomes as they grow older. While prior research has often focused on lifestyle and behavioural risk factors such as smoking or diet, this study places particular emphasis on the cumulative impact of environmental conditions — including air pollution, housing quality, and access to green space — as well as the protective factors that enable some people to age more healthily despite lifelong social adversity.\nDrawing on data from six large population cohorts across five countries and representing nearly 350,000 individuals, the project will investigate how early-life and adult socioeconomic conditions influence disease onset, functional decline, and biological markers of aging. It will also estimate which realistic policy and lifestyle interventions could most effectively reduce inequalities in aging outcomes. By comparing countries with different social policies and cultural contexts, the research will generate actionable evidence on how environments and systems can either accelerate or buffer the aging process.\nThis work is especially important for healthy aging because it moves beyond individual behavior to address structural and environmental drivers of health disparities, helping inform policies and community-level strategies that can support more equitable aging for current and future generations."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Email: [Insert Lab Email Address]\nOffice: [Insert Room / Building Number]\nMailing Address:\nSchool of Population and Public Health\nUniversity of British Columbia\nVancouver, BC, Canada"
-  },
-  {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: [Insert Lab Email Address]\nOffice: [Insert Room / Building Number]\nMailing Address:\nSchool of Population and Public Health\nUniversity of British Columbia\nVancouver, BC, Canada"
-  },
-  {
-    "objectID": "contact.html#find-us",
-    "href": "contact.html#find-us",
-    "title": "Contact",
-    "section": "Find Us",
-    "text": "Find Us"
+    "text": "About this site"
   },
   {
     "objectID": "publications.html#all-publications",
@@ -68,6 +54,13 @@
     "title": "Publications",
     "section": "All Publications",
     "text": "All Publications\nPlease find a complete list of the Stringhini Lab publications on Google Scholar."
+  },
+  {
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Research Opportunities",
+    "section": "",
+    "text": "Seeking Highly Motivated Graduate Students and Trainees with expertise in the Following Areas:\n\nLife-Course Epidemiology\nCausal Inference\nMediation Analyses\nLongitudinal Data Analysis\nReproducible Workflows\n\n\n\nPlease see our Research page for current projects in our research group."
   },
   {
     "objectID": "people.html",
@@ -88,6 +81,13 @@
     "href": "people.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nPrevious Role / Current Affiliation\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\nResearch\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nContact\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nNews & Updates\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nResearch\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nThe Stringhini Laboratory\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nPublications\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nAbout\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nResearch Opportunities\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items"
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Name\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nPrevious Role / Current Affiliation\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\nAbout\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nPublications\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nResearch\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nResearch Opportunities\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nNews & Updates\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nContact\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nThe Stringhini Laboratory\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nResearch\n\n\n \n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Stringhini Laboratory",
+    "section": "",
+    "text": "Welcome to the Stringhini Laboratory\n\nWe are a epidemiological research group out of the School of Population and Public Health at UBC and the Edwin S.H. Leong Centre for Healthy Aging. Our research focuses on the social, environmental, and economic factors driving chronic diseases and aging, using a life-course epidemiological approach.\n\n\n\nThis website is under development. Check back in soon…"
   }
 ]
