@@ -1,6 +1,6 @@
 ---
 title: "People"
-subtitle: "Meet our research team and collaborators"
+subtitle: "Meet our research team"
 page-layout: full
 date-format: "YYYY-MM"
 listing:
@@ -41,7 +41,10 @@ toc: false
 format:  
   html:
     link-external-newwindow: true
+
 ---
+
+![](/images/Stringhini_lab_group.jpeg){.group-photo width="70%"}
 
 ## Current Team
 
