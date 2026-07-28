@@ -1,9 +1,14 @@
 ---
 title: "Research"
 ---
-## Unequal Ageing Trajectories Across the Life Course: Environmental Pathways, Protective Factors, and Actionable Levers
-Dr. Stringhini’s four-year project examines how social and economic conditions across the life course shape biological and functional aging, and why some individuals experience poorer health outcomes as they grow older. While prior research has often focused on lifestyle and behavioural risk factors such as smoking or diet, this study places particular emphasis on the cumulative impact of environmental conditions — including air pollution, housing quality, and access to green space — as well as the protective factors that enable some people to age more healthily despite lifelong social adversity.
+#### Our research centres on social inequalities in ageing across the life course, and on the biological, environmental, and structural mechanisms that produce them. Current directions include:
 
-Drawing on data from six large population cohorts across five countries and representing nearly 350,000 individuals, the project will investigate how early-life and adult socioeconomic conditions influence disease onset, functional decline, and biological markers of aging. It will also estimate which realistic policy and lifestyle interventions could most effectively reduce inequalities in aging outcomes. By comparing countries with different social policies and cultural contexts, the research will generate actionable evidence on how environments and systems can either accelerate or buffer the aging process.
+**Unequal ageing trajectories** — how socioeconomic circumstances across the life course shape the rate and timing of decline in physical function, cognition, and multisystem health, and which exposures explain the divergence between social groups. This work uses harmonised cross-national cohort data to compare how ageing gradients differ across welfare and policy contexts, and is supported by a CIHR program on environmental pathways, protective factors, and actionable levers in unequal ageing.
 
-This work is especially important for healthy aging because it moves beyond individual behavior to address structural and environmental drivers of health disparities, helping inform policies and community-level strategies that can support more equitable aging for current and future generations.
+**Biological embedding of social disadvantage** — epigenetic clocks, allostatic load, inflammation, telomere length, and multi-omic markers of accelerated ageing, examined from birth through later life to identify when and how social adversity registers biologically. 
+
+**Environmental pathways to health inequalities** — the contribution of environmental exposures (air pollution, heavy metals, wildfire smoke) to social gradients in biological ageing and child health.
+
+**Parental leave policy and health inequalities** — Canada’s successive parental leave reforms (1990, 2000, and the 2017 extended-benefit option) offer a natural experiment for evaluating whether a major public investment in the early-life window narrows or widens health gaps. Because uptake of extended leave is strongly patterned by income, employment security, and employer top-ups, its benefits may concentrate among more advantaged families. This work uses the Canadian Community Health Survey, the Discharge Abstract Database, the BC Early Development Instrument, and the Parental Experiences Survey to estimate short- and long-term effects on maternal and child health across the socioeconomic gradient.
+
+**Intersectionality and cumulative disadvantage** — quantitative approaches (e.g., MAIHDA) to how socioeconomic status, migration, and racialization jointly shape health across the life course.

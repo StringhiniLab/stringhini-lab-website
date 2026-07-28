@@ -1,5 +1,27 @@
 ---
-title: "News & Updates"
+title: "News and Updates"
+page-layout: full
 ---
 
-Recent news in the lab...
+### 2026 
+> **Kalia Bennett awarded GerOmics NSERC CREATE award**  
+> This award provides funding for trainees conducting genomics and ageing biology research. Congratulations Kalia!
+
+> **Weishen Liu joins the lab - Summer 2026**  
+> Welcome, Weishen!
+
+> **Stringhini Lab awarded CIHR grant - Summer 2026**  
+> The grant will investigate the long term health impacts of parental leave. Read more about the grant [here](https://spph.ubc.ca/dr-silvia-stringhini-awarded-602k-cihr-grant-to-study-the-long-term-health-impacts-of-parental-leave-in-canada/).
+
+> **Stringhini Lab wins big at annual UBC Healthy Research Day - Summer 2026**  
+> Congratulations to Amanda for winning an award for best talk and Shelby for winning an award for best poser presentation at this years UBC Healthy Research Day!
+
+> **Kalia Bennett awarded UBC Fellowship**  
+> This fellowship will help support Kalia's research for 4 years. Congratulations Kalia!
+
+### 2025 
+> **Stringhini Lab awarded CIHR Grant - Fall 2025**  
+> The grant will investigate ageing trajectories across the life course. Read more about the grant [here](https://healthyaging.med.ubc.ca/news/edwin-s-h-leong-centre-for-healthy-aging-investigators-awarded-cihr-project-grants-in-fall-2025-competition). 
+
+
+

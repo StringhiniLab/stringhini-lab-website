@@ -15,8 +15,8 @@ listing:
       - people/silvia-stringhini.yml
       - people/rebecca-lawn.yml
       - people/amanda-kurowski.yml
+      - people/weishen-liu.yml
       - people/kalia-bennett.yml
-      - people/shelby-vereecke.yml
       - people/qinlan-yang.yml
       - people/keenan-elliott.yml
   - id: lab-alumni
@@ -31,8 +31,8 @@ listing:
       subtitle: "Previous Role / Current Affiliation"
       started: "Started"
       ended: "Ended"
-#    contents: 
-#      - people/silvia-stringhini.yml
+    contents: 
+      - people/shelby-vereecke.yml
 
 page-navigation: false
 title-block-banner: false

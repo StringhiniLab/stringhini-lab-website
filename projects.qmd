@@ -1,6 +1,26 @@
 ---
-title: "Research"
+title: "Projects"
+subtitle: "Funded projects"
+page-layout: full
+listing: 
+- id: projects
+  sort: 
+    - "started desc"
+    - "ended desc"
+  type: table
+  fields: [title, author, subtitle, description, funding, started, ended]
+  grid-item-align: left
+  grid-columns: 3
+  field-display-names: 
+      title: "Title"
+      author: "Team"
+      subtitle: "Funder"
+      started: "Start"
+      ended: "End"
+      funding: "Funding"
+  contents: 
+    - projects.yml 
 ---
 
-
-## Project 2
+:::{#projects}
+:::

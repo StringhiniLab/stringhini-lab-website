@@ -2,14 +2,17 @@
 title: "Research Opportunities"
 ---
 
-#### Seeking Highly Motivated Graduate Students and Trainees with expertise in the Following Areas:
+### The Stringhini Lab is accepting MSc and PhD enquiries 
+#### We are looking for students with a solid background in epidemiology and quantitative methods, and welcome enquiries in the following areas:
 
-- Life-Course Epidemiology 
-- Causal Inference
-- Mediation Analyses 
-- Longitudinal Data Analysis
-- Reproducible Workflows
+- social and environmental determinants of ageing trajectories, using longitudinal cohort data 
+- environmental and social pathways to biological ageing, using epigenetic and multi-omic data
+- early-life environmental exposures (wildfire smoke, air pollution, heavy metals) and their social patterning
+- quasi-experimental evaluation of policy changes on inequalities in health.
 
-#### Please see our [Research page](research.qmd) for current projects in our research group. 
+Applicants should have formal training in epidemiology, biostatistics, or a related quantitative discipline, and be comfortable working with large longitudinal datasets. Familiarity with causal inference, mediation, or quasi-experimental methods, and proficiency in R or Python, are strong assets. Interest in life-course and biological-embedding frameworks is important. Enquiries should include a CV, a brief statement of research interests, and an indication of which project area is the best fit.
+
+#### Please see our [Research page](research.qmd) for current projects in our research group and our [Selected Publications](publications.qmd) page for research examples. 
+
 
 
