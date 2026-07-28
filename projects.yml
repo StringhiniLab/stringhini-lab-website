@@ -1,6 +1,6 @@
 - path: https://spph.ubc.ca/dr-silvia-stringhini-awarded-602k-cihr-grant-to-study-the-long-term-health-impacts-of-parental-leave-in-canada/
   title: "The Health Impact of Parental Leave: Assessing the Effect of Policy Changes and Leave Uptake on Short- and Long-Term Maternal and Child Health Outcomes in Canada"
-  author: "Stringhini, Silvia, Guhn, Martin; Mah, Sarah M; McDade, Thomas"
+  author: "Stringhini, Silvia; Guhn, Martin; Mah, Sarah M; McDade, Thomas"
   subtitle: "Canadian Institutes of Health Research"
   description: "Parental leave policies provide time off work after childbirth and play an important role in supporting families and health. Research shows that paid leave improves short-term outcomes, such as reducing postpartum depression, lowering maternal hospital readmissions, and supporting early child development. However, we know much less about the long-term health effects of parental leave and whether it helps reduce health inequalities. This study will examine how the 2000 policy reform in Canada affected mothers’ physical and mental health in both the short and long term, including depression, hospital stays, and overall health years after childbirth. It will also assess how the 2000 and 2017 reforms influenced children’s early development and their health through adolescence and early adulthood."
   started: "2026"
@@ -9,10 +9,28 @@
 
 - path: https://healthyaging.med.ubc.ca/news/edwin-s-h-leong-centre-for-healthy-aging-investigators-awarded-cihr-project-grants-in-fall-2025-competition
   title: "Unequal Ageing Trajectories Across the Life Course: Environmental Pathways, Protective Factors, and Actionable Levers"
-  author: "Stringhini, Silvia, Kobor, Michael S; McLeod, Christopher B"
+  author: "Stringhini, Silvia; Kobor, Michael S; McLeod, Christopher B"
   subtitle: "Canadian Institutes of Health Research"
   description: "This project aims to provide crucial insights into how socioeconomic conditions throughout life influence the aging process and contribute to health disparities in later years. Aging outcomes-such as functional decline, disease onset, and biological aging-vary significantly across individuals, with those exposed to adverse socioeconomic conditions, such as poverty or low education, facing a greater risk of poor health as they age."
   started: "2025"
   ended: "2029"
   funding: "$719,000"
+  
+- path: null
+  title: "Explaining life-course socio-economic inequalities in ageing trajectories"
+  author: "Stringhini, Silvia; Kobor, Michael S; McLeod, Christopher B"
+  subtitle: "Early Career Invesitgator - Canadian Institutes of Health Research"
+  description: ""
+  started: "2024"
+  ended: "2025"
+  funding: "$100,000"
+  
+- path: null
+  title: "Socio-economic conditions and functional health trajectories in middle to old age: exploring the role of behavioural and environmental factors"
+  author: "Stringhini, Silvia; Kobor, Michael S"
+  subtitle: "Catalyst Grant - Canadian Institutes of Health Research"
+  description: "Ageing trajectories vary between individuals, with some people ageing faster than others. This project will assess the role of socio-economic conditions in shaping trajectories of physical functioning using data from the Canadian Longitudinal Study of Ageing. It will examine the extent to which favorable lifestyle and environmental exposures buffer the effect of poor socio-economic circumstances on physical functioning."
+  started: "2023"
+  ended: "2024"
+  funding: "$69,975"  
   
