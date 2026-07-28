@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Research Opportunities",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\nThe Health Impact of Parental Leave: Assessing the Effect of Policy Changes and Leave Uptake on Short- and Long-Term Maternal and Child Health Outcomes in Canada\n\n\nStringhini, Silvia, Guhn, Martin; Mah, Sarah M; McDade, Thomas\n\n\nCanadian Institutes of Health Research\n\n\nParental leave policies provide time off work after childbirth and play an important role in supporting families and health. Research shows that paid leave improves short-term outcomes, such as reducing postpartum depression, lowering maternal hospital readmissions, and supporting early child development. However, we know much less about the long-term health effects of parental leave and whether it helps reduce health inequalities. This study will examine how the 2000 policy reform in Canada affected mothers’ physical and mental health in both the short and long term, including depression, hospital stays, and overall health years after childbirth. It will also assess how the 2000 and 2017 reforms influenced children’s early development and their health through adolescence and early adulthood.\n\n\n$602,056\n\n\n2026\n\n\n2031\n\n\n\n\n\n\nUnequal Ageing Trajectories Across the Life Course: Environmental Pathways, Protective Factors, and Actionable Levers\n\n\nStringhini, Silvia, Kobor, Michael S; McLeod, Christopher B\n\n\nCanadian Institutes of Health Research\n\n\nThis project aims to provide crucial insights into how socioeconomic conditions throughout life influence the aging process and contribute to health disparities in later years. Aging outcomes-such as functional decline, disease onset, and biological aging-vary significantly across individuals, with those exposed to adverse socioeconomic conditions, such as poverty or low education, facing a greater risk of poor health as they age.\n\n\n$719,000\n\n\n2025\n\n\n2029\n\n\n\n\n\n\nNo matching items"
+    "text": "The Stringhini Lab is accepting MSc and PhD enquiries\n\nWe are looking for students with a solid background in epidemiology and quantitative methods, and welcome enquiries in the following areas:\n\nsocial and environmental determinants of ageing trajectories, using longitudinal cohort data\nenvironmental and social pathways to biological ageing, using epigenetic and multi-omic data\nearly-life environmental exposures (wildfire smoke, air pollution, heavy metals) and their social patterning\nquasi-experimental evaluation of policy changes on inequalities in health.\n\nApplicants should have formal training in epidemiology, biostatistics, or a related quantitative discipline, and be comfortable working with large longitudinal datasets. Familiarity with causal inference, mediation, or quasi-experimental methods, and proficiency in R or Python, are strong assets. Interest in life-course and biological-embedding frameworks is important. Enquiries should include a CV, a brief statement of research interests, and an indication of which project area is the best fit.\n\n\nPlease see our Research page for current projects in our research group and our Selected Publications page for research examples."
   },
   {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact",
-    "section": "Get in Touch",
-    "text": "Get in Touch\nEmail:\nsilvia.stringhini@ubc.ca\nMailing Address:\nSchool of Population and Public Health\nUniversity of British Columbia\n2206 East Mall\nVancouver, BC, Canada\nV6T 1Z8"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Stringhini Laboratory",
+    "section": "",
+    "text": "Welcome to the Stringhini Laboratory\n\nWe are a epidemiological research group out of the School of Population and Public Health at UBC and the Edwin S.H. Leong Centre for Healthy Aging. Our research focuses on the social, environmental, and economic factors driving chronic diseases and aging, using a life-course epidemiological approach."
   },
   {
     "objectID": "news.html",
@@ -28,11 +35,18 @@
     "text": "Our research centres on social inequalities in ageing across the life course, and on the biological, environmental, and structural mechanisms that produce them. Current directions include:\nUnequal ageing trajectories — how socioeconomic circumstances across the life course shape the rate and timing of decline in physical function, cognition, and multisystem health, and which exposures explain the divergence between social groups. This work uses harmonised cross-national cohort data to compare how ageing gradients differ across welfare and policy contexts, and is supported by a CIHR program on environmental pathways, protective factors, and actionable levers in unequal ageing.\nBiological embedding of social disadvantage — epigenetic clocks, allostatic load, inflammation, telomere length, and multi-omic markers of accelerated ageing, examined from birth through later life to identify when and how social adversity registers biologically.\nEnvironmental pathways to health inequalities — the contribution of environmental exposures (air pollution, heavy metals, wildfire smoke) to social gradients in biological ageing and child health.\nParental leave policy and health inequalities — Canada’s successive parental leave reforms (1990, 2000, and the 2017 extended-benefit option) offer a natural experiment for evaluating whether a major public investment in the early-life window narrows or widens health gaps. Because uptake of extended leave is strongly patterned by income, employment security, and employer top-ups, its benefits may concentrate among more advantaged families. This work uses the Canadian Community Health Survey, the Discharge Abstract Database, the BC Early Development Instrument, and the Parental Experiences Survey to estimate short- and long-term effects on maternal and child health across the socioeconomic gradient.\nIntersectionality and cumulative disadvantage — quantitative approaches (e.g., MAIHDA) to how socioeconomic status, migration, and racialization jointly shape health across the life course."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nEmail:\nsilvia.stringhini@ubc.ca\nMailing Address:\nSchool of Population and Public Health\nUniversity of British Columbia\n2206 East Mall\nVancouver, BC, Canada\nV6T 1Z8"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\nThe Health Impact of Parental Leave: Assessing the Effect of Policy Changes and Leave Uptake on Short- and Long-Term Maternal and Child Health Outcomes in Canada\n\n\nStringhini, Silvia; Guhn, Martin; Mah, Sarah M; McDade, Thomas\n\n\nCanadian Institutes of Health Research\n\n\nParental leave policies provide time off work after childbirth and play an important role in supporting families and health. Research shows that paid leave improves short-term outcomes, such as reducing postpartum depression, lowering maternal hospital readmissions, and supporting early child development. However, we know much less about the long-term health effects of parental leave and whether it helps reduce health inequalities. This study will examine how the 2000 policy reform in Canada affected mothers’ physical and mental health in both the short and long term, including depression, hospital stays, and overall health years after childbirth. It will also assess how the 2000 and 2017 reforms influenced children’s early development and their health through adolescence and early adulthood.\n\n\n$602,056\n\n\n2026\n\n\n2031\n\n\n\n\n\n\nUnequal Ageing Trajectories Across the Life Course: Environmental Pathways, Protective Factors, and Actionable Levers\n\n\nStringhini, Silvia; Kobor, Michael S; McLeod, Christopher B\n\n\nCanadian Institutes of Health Research\n\n\nThis project aims to provide crucial insights into how socioeconomic conditions throughout life influence the aging process and contribute to health disparities in later years. Aging outcomes-such as functional decline, disease onset, and biological aging-vary significantly across individuals, with those exposed to adverse socioeconomic conditions, such as poverty or low education, facing a greater risk of poor health as they age.\n\n\n$719,000\n\n\n2025\n\n\n2029\n\n\n\n\n\n\nExplaining life-course socio-economic inequalities in ageing trajectories\n\n\nStringhini, Silvia; Kobor, Michael S; McLeod, Christopher B\n\n\nEarly Career Invesitgator - Canadian Institutes of Health Research\n\n\n \n\n\n$100,000\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nSocio-economic conditions and functional health trajectories in middle to old age: exploring the role of behavioural and environmental factors\n\n\nStringhini, Silvia; Kobor, Michael S\n\n\nCatalyst Grant - Canadian Institutes of Health Research\n\n\nAgeing trajectories vary between individuals, with some people ageing faster than others. This project will assess the role of socio-economic conditions in shaping trajectories of physical functioning using data from the Canadian Longitudinal Study of Ageing. It will examine the extent to which favorable lifestyle and environmental exposures buffer the effect of poor socio-economic circumstances on physical functioning.\n\n\n$69,975\n\n\n2023\n\n\n2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -56,13 +70,6 @@
     "text": "All Publications\nFind a complete, up-to-date list of lab publications on Google Scholar."
   },
   {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "Research Opportunities",
-    "section": "",
-    "text": "The Stringhini Lab is accepting MSc and PhD enquiries\n\nWe are looking for students with a solid background in epidemiology and quantitative methods, and welcome enquiries in the following areas:\n\nsocial and environmental determinants of ageing trajectories, using longitudinal cohort data\nenvironmental and social pathways to biological ageing, using epigenetic and multi-omic data\nearly-life environmental exposures (wildfire smoke, air pollution, heavy metals) and their social patterning\nquasi-experimental evaluation of policy changes on inequalities in health.\n\nApplicants should have formal training in epidemiology, biostatistics, or a related quantitative discipline, and be comfortable working with large longitudinal datasets. Familiarity with causal inference, mediation, or quasi-experimental methods, and proficiency in R or Python, are strong assets. Interest in life-course and biological-embedding frameworks is important. Enquiries should include a CV, a brief statement of research interests, and an indication of which project area is the best fit.\n\n\nPlease see our Research page for current projects in our research group and our Selected Publications page for research examples."
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -82,12 +89,5 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Name\n      \n      \n        Previous Role / Current Affiliation\n      \n      \n        Started - Oldest\n      \n      \n        Started - Newest\n      \n      \n        Ended - Oldest\n      \n      \n        Ended - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nPrevious Role / Current Affiliation\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\nShelby Vereecke\n\n\nResearch Scientist\n\n\n2024-10\n\n\n2026-09\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Stringhini Laboratory",
-    "section": "",
-    "text": "Welcome to the Stringhini Laboratory\n\nWe are a epidemiological research group out of the School of Population and Public Health at UBC and the Edwin S.H. Leong Centre for Healthy Aging. Our research focuses on the social, environmental, and economic factors driving chronic diseases and aging, using a life-course epidemiological approach."
   }
 ]
