@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4ee4e813950f7bd3f785a28ad3fc1c6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d09effba0b198380d60f6c02d5b5a009.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -95,9 +95,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-started-sort'] },{ data: ['listing-ended-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-lastname","listing-subtitle","listing-image","listing-started","listing-ended"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -206,11 +206,11 @@ window.Quarto = {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
     <a class="dropdown-item" href="./research.html">
- <span class="dropdown-text">Unequal Aging Trajectories</span></a>
+ <span class="dropdown-text">Research Topics</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./projects.html">
- <span class="dropdown-text">Project 2</span></a>
+ <span class="dropdown-text">Funded Projects</span></a>
   </li>  
     </ul>
   </li>
@@ -279,7 +279,7 @@ window.Quarto = {
 </p>
 </a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
 </a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
-</a><a href="https://healthyaging.med.ubc.ca/faculty/stringhini-silvia">Silvia Stringhini</a>
+</a><a href="https://spph.ubc.ca/faculty/professors/silvia-stringhini/">Silvia Stringhini</a>
 </h5>
 <div class="card-subtitle listing-subtitle">
 Professor
@@ -327,7 +327,7 @@ PhD Student
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Kalia Bennett
+Weishen Liu
 </h5>
 <div class="card-subtitle listing-subtitle">
 PhD Student
@@ -343,10 +343,10 @@ PhD Student
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Shelby Vereecke
+Kalia Bennett
 </h5>
 <div class="card-subtitle listing-subtitle">
-Research Scientist
+PhD Student
 </div>
 </div>
 </div></a>
@@ -399,6 +399,21 @@ Research Scientist
       <option value="listing-title-sort" data-direction="asc">
         Name
       </option>
+      <option value="listing-subtitle" data-direction="asc">
+        Previous Role / Current Affiliation
+      </option>
+      <option value="listing-started-sort" data-direction="asc">
+        Started - Oldest
+      </option>
+      <option value="listing-started-sort" data-direction="desc">
+        Started - Newest
+      </option>
+      <option value="listing-ended-sort" data-direction="asc">
+        Ended - Oldest
+      </option>
+      <option value="listing-ended-sort" data-direction="desc">
+        Ended - Newest
+      </option>
     </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -415,145 +430,33 @@ Research Scientist
 </th>
 
 <th>
-Previous Role / Current Affiliation
+<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Previous Role / Current Affiliation</a>
 </th>
 
 <th>
-Started
+<a class="sort" data-sort="listing-started-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Started</a>
 </th>
 
 <th>
-Ended
+<a class="sort" data-sort="listing-ended-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Ended</a>
 </th>
 
 </tr>
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-file-modified-sort="1784826499557" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="About" data-listing-filename-sort="about.qmd">
+<tr data-index="0" data-listing-started-sort="October 2024" data-listing-ended-sort="September 2026" data-listing-title-sort="Shelby Vereecke">
 <td>
-<a href="./about.html" class="title listing-title">About</a>
+<span class="listing-title">Shelby Vereecke</span>
 </td>
 <td>
-<span class="listing-subtitle">&nbsp;</span>
+<span class="listing-subtitle">Research Scientist</span>
 </td>
 <td>
-<span class="listing-started">&nbsp;</span>
+<span class="listing-started">2024-10</span>
 </td>
 <td>
-<span class="listing-ended">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-file-modified-sort="1784826499570" data-listing-reading-time-sort="1" data-listing-word-count-sort="15" data-listing-title-sort="Publications" data-listing-filename-sort="publications.qmd">
-<td>
-<a href="./publications.html" class="title listing-title">Publications</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-started">&nbsp;</span>
-</td>
-<td>
-<span class="listing-ended">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="2" data-listing-file-modified-sort="1784826499570" data-listing-reading-time-sort="2" data-listing-word-count-sort="211" data-listing-title-sort="Research" data-listing-filename-sort="research.qmd">
-<td>
-<a href="./research.html" class="title listing-title">Research</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-started">&nbsp;</span>
-</td>
-<td>
-<span class="listing-ended">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="3" data-listing-file-modified-sort="1784826499569" data-listing-reading-time-sort="1" data-listing-word-count-sort="27" data-listing-title-sort="Research Opportunities" data-listing-filename-sort="opportunities.qmd">
-<td>
-<a href="./opportunities.html" class="title listing-title">Research Opportunities</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-started">&nbsp;</span>
-</td>
-<td>
-<span class="listing-ended">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="4" data-listing-file-modified-sort="1784826499569" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="News &amp; Updates" data-listing-filename-sort="news.qmd">
-<td>
-<a href="./news.html" class="title listing-title">News &amp; Updates</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-started">&nbsp;</span>
-</td>
-<td>
-<span class="listing-ended">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="5" data-listing-file-modified-sort="1784826499557" data-listing-reading-time-sort="1" data-listing-word-count-sort="42" data-listing-title-sort="Contact" data-listing-filename-sort="contact.qmd">
-<td>
-<a href="./contact.html" class="title listing-title">Contact</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-started">&nbsp;</span>
-</td>
-<td>
-<span class="listing-ended">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="6" data-listing-file-modified-sort="1784826499569" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="The Stringhini Laboratory" data-listing-filename-sort="index.qmd">
-<td>
-<a href="./index.html" class="title listing-title">The Stringhini Laboratory</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-started">&nbsp;</span>
-</td>
-<td>
-<span class="listing-ended">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="7" data-listing-file-modified-sort="1784826499570" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Research" data-listing-filename-sort="projects.qmd">
-<td>
-<a href="./projects.html" class="title listing-title">Research</a>
-</td>
-<td>
-<span class="listing-subtitle">&nbsp;</span>
-</td>
-<td>
-<span class="listing-started">&nbsp;</span>
-</td>
-<td>
-<span class="listing-ended">&nbsp;</span>
+<span class="listing-ended">2026-09</span>
 </td>
 
 </tr>
@@ -980,7 +883,7 @@ Ended
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<a href="https://github.com/YOUR-USERNAME/stringhini-lab-website">The Stringhini Laboratory</a> ©
+<a href="https://github.com/StringhiniLab/stringhini-lab-website">The Stringhini Laboratory</a> ©
 <script>document.write(new Date().getFullYear())</script>
 </div>
     <div class="nav-footer-right">

@@ -1,15 +1,10 @@
 [
   {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
     "listing": "/people.html",
-    "items": [
-      "/about.html",
-      "/publications.html",
-      "/research.html",
-      "/opportunities.html",
-      "/news.html",
-      "/contact.html",
-      "/index.html",
-      "/projects.html"
-    ]
+    "items": []
   }
 ]
