@@ -6,7 +6,8 @@ date-format: "YYYY-MM"
 listing:
   - id: lab-member
     sort: false
-    type: grid
+    type: default
+    template: templates/people-grid.ejs
     fields: [image, title, subtitle]
     grid-item-align: center
     grid-columns: 3

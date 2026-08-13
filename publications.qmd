@@ -5,14 +5,15 @@ page-layout: full
 
 ## Selected Publications 
 
-> **Socioeconomic status and the 25 × 25 risk factors as determinants of premature mortality: a multicohort study and meta-analysis of 1·7 million men and women.**  
-> [DOI: 10.1016/S0140-6736(16)32380-7](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32380-7/fulltext)
-
 > **Predictors of perceived social support and loneliness over time: A population-based study in Switzerland, 2021-2025.**  
 > [https://doi.org/10.1016/j.puhe.2026.106413](https://doi.org/10.1016/j.puhe.2026.106413)
 
 > **The Intersection of Socioeconomic and Environmental Factors in Aging: Insights from a Narrative Review.**  
-> [DOI: doi.org/10.3390/ijerph22081241P](https://doi.org/10.3390/ijerph22081241P)
+> [DOI: doi.org/10.3390/ijerph22081241](https://doi.org/10.3390/ijerph22081241)
+
+> **Socioeconomic status and the 25 × 25 risk factors as determinants of premature mortality: a multicohort study and meta-analysis of 1·7 million men and women.**  
+> [DOI: 10.1016/S0140-6736(16)32380-7](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32380-7/fulltext)
+
 
 ## All Publications
 
