@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://StringhiniLab.github.io/stringhini-lab-website/people.html</loc>
-    <lastmod>2026-08-18T13:15:44.519Z</lastmod>
+    <loc>https://StringhiniLab.github.io/stringhini-lab-website/contact.html</loc>
+    <lastmod>2026-10-03T00:10:57.669Z</lastmod>
   </url>
   <url>
     <loc>https://StringhiniLab.github.io/stringhini-lab-website/research.html</loc>
-    <lastmod>2026-08-18T13:15:44.521Z</lastmod>
+    <lastmod>2026-10-03T00:10:57.692Z</lastmod>
+  </url>
+  <url>
+    <loc>https://StringhiniLab.github.io/stringhini-lab-website/people.html</loc>
+    <lastmod>2026-10-03T00:10:57.691Z</lastmod>
   </url>
   <url>
     <loc>https://StringhiniLab.github.io/stringhini-lab-website/opportunities.html</loc>
-    <lastmod>2026-08-18T13:15:44.519Z</lastmod>
-  </url>
-  <url>
-    <loc>https://StringhiniLab.github.io/stringhini-lab-website/contact.html</loc>
-    <lastmod>2026-08-18T13:15:44.505Z</lastmod>
+    <lastmod>2026-10-03T00:10:57.691Z</lastmod>
   </url>
   <url>
     <loc>https://StringhiniLab.github.io/stringhini-lab-website/projects.html</loc>
-    <lastmod>2026-08-18T13:15:44.521Z</lastmod>
-  </url>
-  <url>
-    <loc>https://StringhiniLab.github.io/stringhini-lab-website/about.html</loc>
-    <lastmod>2026-08-18T13:15:44.505Z</lastmod>
+    <lastmod>2026-10-03T00:10:57.692Z</lastmod>
   </url>
   <url>
     <loc>https://StringhiniLab.github.io/stringhini-lab-website/index.html</loc>
-    <lastmod>2026-08-18T13:15:44.519Z</lastmod>
-  </url>
-  <url>
-    <loc>https://StringhiniLab.github.io/stringhini-lab-website/news.html</loc>
-    <lastmod>2026-08-18T13:15:44.519Z</lastmod>
+    <lastmod>2026-10-03T00:10:57.691Z</lastmod>
   </url>
   <url>
     <loc>https://StringhiniLab.github.io/stringhini-lab-website/publications.html</loc>
-    <lastmod>2026-08-18T13:15:44.521Z</lastmod>
+    <lastmod>2026-10-03T00:10:57.692Z</lastmod>
+  </url>
+  <url>
+    <loc>https://StringhiniLab.github.io/stringhini-lab-website/news.html</loc>
+    <lastmod>2026-10-03T00:10:57.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://StringhiniLab.github.io/stringhini-lab-website/about.html</loc>
+    <lastmod>2026-10-03T00:10:57.669Z</lastmod>
   </url>
 </urlset>
