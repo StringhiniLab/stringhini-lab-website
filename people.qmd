@@ -15,10 +15,15 @@ listing:
     contents: 
       - people/silvia-stringhini.yml
       - people/rebecca-lawn.yml
+      - people/zoey-verdun.yml
       - people/amanda-kurowski.yml
       - people/weishen-liu.yml
       - people/kalia-bennett.yml
       - people/qinlan-yang.yml
+      - people/jacqueline-sommer.yml
+      - people/sunny-wu.yml
+      - people/lawrence-chen.yml
+      - people/sarah-park.yml
       - people/keenan-elliott.yml
   - id: lab-alumni
     sort: false
