@@ -1,1 +1,1 @@
-Sitemap: https://StringhiniLab.github.io/stringhini-lab-website/sitemap.xml
+Sitemap: https://stringhinilab.github.io/stringhini-lab-website/sitemap.xml
