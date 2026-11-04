@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "The Stringhini Laboratory"
+  site-url: "https://stringhinilab.github.io/stringhini-lab-website"
   favicon: images/logo.png
   description: "Public health and epidemiology research group at the University of British Columbia. Specializing in longitudinal cohort data analytics, missing data methods, and causal inference frameworks."
   search: false
